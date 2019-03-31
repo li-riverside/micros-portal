@@ -1,7 +1,7 @@
 {
-  "name": "micro-front-portal",
+  "name": "micros-portal",
   "version": "1.0.0",
-  "description": "du.jiareate by Du.Jianlongnlong",
+  "description": "The portal for all micros",
   "author": "du.jianlong",
   "private": true,
   "scripts": {
